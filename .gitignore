@@ -523,4 +523,6 @@ FodyWeavers.xsd
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,unrealengine,visualstudiocode,c++
 
 # source files for external content
-Content/External/src/
+Content/
+!Content/Included
+
